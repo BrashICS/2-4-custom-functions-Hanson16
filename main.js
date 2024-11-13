@@ -1,4 +1,4 @@
-/**
+pp/**
  * 2.4 - Custom Functions
  * ICS3 - Mr. Brash 🐿️
  * 
@@ -14,7 +14,7 @@ function circle_area() {
     let radius = Number(prompt("What is the radius of the circle?"));
 
     console.log(`The area is: ${Math.PI * radius**2}`);
-
+Function
 }
 
 /*****  Your code goes below  *****/
